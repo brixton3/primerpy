@@ -5,3 +5,5 @@ pruebas con python
     operaciones.py
 #Ejemplo 3
     adivinanza.py
+#Ejemplo 4
+    listas.py
