@@ -1,1 +1,7 @@
 pruebas con python
+#Ejemplo 1
+    holamundo.py
+#Ejemplo 2
+    operaciones.py
+#Ejemplo 3
+    adivinanza.py
