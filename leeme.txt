@@ -7,3 +7,5 @@ pruebas con python
     adivinanza.py
 #Ejemplo 4
     listas.py
+#Ejemplo 5
+    bucles.py
