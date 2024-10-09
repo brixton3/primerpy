@@ -21,3 +21,21 @@ else:
     print(nombre, "no está en el diccionario de edades.")
 print('--- tamaño del diccionario len')
 print(len(edades))
+#funciones de diccionarios
+# keys() devuelve una lista de las claves del diccionario
+claves = mi_diccionario.keys()
+print(claves)
+
+# values() devuelve una lista de los valores del diccionario
+
+valores = mi_diccionario.values()
+print(valores)
+
+# items() recibe una lista de tuplas ( clave, valor)
+items= mi_diccionario.items()
+print(items)
+
+# get() devuelve el valor asociado a una clave o un valor por defecti si la clave no existe
+nombre = mi_diccionario.get('nombre')
+edad = mi_diccionario.get('edad', 0)
+print(nombre,edad)
