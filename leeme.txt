@@ -23,3 +23,5 @@ pruebas con python
     tiempo.py
 5 trabajando archivos
     archivos.py
+6 diccionarios
+    diccionario.py
