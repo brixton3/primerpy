@@ -39,3 +39,7 @@ print(items)
 nombre = mi_diccionario.get('nombre')
 edad = mi_diccionario.get('edad', 0)
 print(nombre,edad)
+
+# pop() elimina una clave y su valor del diccionario y devuelve el valor eliminado
+valor_eliminado = mi_diccionario.pop('nombre')
+print(valor_eliminado)
