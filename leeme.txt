@@ -15,3 +15,5 @@ pruebas con python
 1 Explorando listas
 
     listas2.py
+2 Manipulacion de cadenas y expresiones regulares
+    cadenas.py
