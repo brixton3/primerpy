@@ -19,3 +19,5 @@ pruebas con python
     cadenas.py
 3 generador fibonacci
     fibonacci.py
+4 medir tiempo
+    tiempo.py
