@@ -9,3 +9,9 @@ pruebas con python
     listas.py
 #Ejemplo 5
     bucles.py
+
+## SECCION 2
+
+1 Explorando listas
+
+    listas2.py
