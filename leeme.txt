@@ -21,3 +21,5 @@ pruebas con python
     fibonacci.py
 4 medir tiempo
     tiempo.py
+5 trabajando archivos
+    archivos.py
