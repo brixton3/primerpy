@@ -15,11 +15,9 @@ nombre = "Ana"
 edad = edades.get(nombre)
 
 if edad is not None:
-
     print(nombre, "tiene", edad, "años.")
 
 else:
-
     print(nombre, "no está en el diccionario de edades.")
 print('--- tamaño del diccionario len')
 print(len(edades))
