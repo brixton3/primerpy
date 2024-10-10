@@ -43,3 +43,17 @@ print(nombre,edad)
 # pop() elimina una clave y su valor del diccionario y devuelve el valor eliminado
 valor_eliminado = mi_diccionario.pop('nombre')
 print(valor_eliminado)
+
+# update actualiza el diccionario con pares clave-valor de otro diccionario
+
+otro_diccionario = {'nombre': 'Ana', 'edad': 25}
+mi_diccionario.update(otro_diccionario)
+print(mi_diccionario)
+
+# clear() elimina todas las claves y valores del diccionario
+mi_diccionario.clear()
+print(mi_diccionario)
+
+# copy() devuelve una copia del diccionario
+mi_diccionario = {'nombre': 'Juan', 'edad': 30}
+copia_diccionario = mi_diccionario.copy()
