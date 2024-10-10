@@ -57,3 +57,4 @@ print(mi_diccionario)
 # copy() devuelve una copia del diccionario
 mi_diccionario = {'nombre': 'Juan', 'edad': 30}
 copia_diccionario = mi_diccionario.copy()
+

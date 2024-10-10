@@ -25,3 +25,5 @@ pruebas con python
     archivos.py
 6 diccionarios
     diccionario.py
+7 ejercicios en python
+    ejercicios.py
