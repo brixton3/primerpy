@@ -27,3 +27,7 @@ pruebas con python
     diccionario.py
 7 ejercicios en python
     ejercicios.py
+8 ejercicios basicos
+    basico.py
+9 uso del modulo math
+    matematicas.py
