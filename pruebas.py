@@ -47,3 +47,7 @@ print(type(x))
 
 x = True
 print(type(x))
+
+x = 5
+x = complex(x)
+print(type(x))
