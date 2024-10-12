@@ -31,3 +31,7 @@ pruebas con python
     basico.py
 9 uso del modulo math
     matematicas.py
+10 ejercicios varios
+    pruebas.py
+11 ejercicios de strings y booleans
+    strings_and_booleans.py
