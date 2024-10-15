@@ -35,3 +35,7 @@ pruebas con python
     pruebas.py
 11 ejercicios de strings y booleans
     strings_and_booleans.py
+12 Script para procesar una carpeta con archivos con nombre de fecha y ordenarlos
+    procesarnombresdearchivos.py
+13 Scrypt para procesar un txt con nombre de archivos de fechas y ordenarlos
+    procesar_archivo.py
