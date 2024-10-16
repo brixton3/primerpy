@@ -42,3 +42,5 @@ pruebas con python
 /internet/
 14 verificar.py
     verifica si hay internet.
+15 obtener_ip.py
+    obtiene la ip del equipo
