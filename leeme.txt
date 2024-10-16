@@ -39,3 +39,6 @@ pruebas con python
     procesarnombresdearchivos.py
 13 Scrypt para procesar un txt con nombre de archivos de fechas y ordenarlos
     procesar_archivo.py
+/internet/
+14 verificar.py
+    verifica si hay internet.
