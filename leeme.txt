@@ -44,3 +44,5 @@ pruebas con python
     verifica si hay internet.
 15 obtener_ip.py
     obtiene la ip del equipo
+16 matrix.py
+    muestra x consola al estilo matrix
