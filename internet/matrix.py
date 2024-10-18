@@ -11,14 +11,14 @@ class message(str):
         self.x = random.randint(0, display().width - 1)  # Asegúrate de que x esté dentro del rango
         self.skip = 0
         return self
-
+ # definicion de move
     def move(self):
         if self.speed > self.skip:
             self.skip += 1
         else:
             self.skip = 0
             self.y += 1
-
+# definicion de display
 class display(list):
     def __init__(self):
         self.height, self.width = os.get_terminal_size()  # Obtener el tamaño de la terminal

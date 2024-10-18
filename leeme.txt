@@ -47,4 +47,4 @@ pruebas con python
 16 matrix.py
     muestra x consola al estilo matrix
 17 descarga.py
-    descarga algo de internet y lo muestra con progressbar en  la terminal
+    descarga algo de internet y lo muestra con progressbar en  la terminal.
