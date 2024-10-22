@@ -39,3 +39,14 @@ pruebas con python
     procesarnombresdearchivos.py
 13 Scrypt para procesar un txt con nombre de archivos de fechas y ordenarlos
     procesar_archivo.py
+/internet/
+14 verificar.py
+    verifica si hay internet.
+15 obtener_ip.py
+    obtiene la ip del equipo
+16 matrix.py
+    muestra x consola al estilo matrix
+17 descarga.py
+    descarga algo de internet y lo muestra con progressbar en  la terminal.
+18 nadosincronizado.py
+    ejercitando con python. nado sincronizado en la consola
