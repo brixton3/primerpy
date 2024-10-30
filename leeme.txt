@@ -49,4 +49,4 @@ pruebas con python
 17 descarga.py
     descarga algo de internet y lo muestra con progressbar en  la terminal.
 18 nadosincronizado.py
-    ejercitando con python. nado sincronizado en la consola
+    ejercitando con python. nado sincronizado en la consola,
