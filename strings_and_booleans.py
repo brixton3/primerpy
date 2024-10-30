@@ -11,7 +11,7 @@ txt = 'Hello World'
 # una manera
 print(txt[2:5])
 
-# otra manera
+# otra manera de hacerlo
 print (txt[3:])
 
 # booleans
