@@ -8,7 +8,7 @@ def read_csv_data():
     with open(csv_file, mode="r") as file:
         reader = csv.DictReader(file) # uso de la funcion dictreader que crea un diccionario del csv q le pasemos
         for row in reader:
-            if row["id"] == "2":
+            if row["status"] == "inactivo":
                 data.append(row)
     return data
 
