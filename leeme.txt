@@ -50,3 +50,5 @@ pruebas con python
     descarga algo de internet y lo muestra con progressbar en  la terminal.
 18 nadosincronizado.py
     ejercitando con python. nado sincronizado en la consola,
+19 lecturas_csv.py
+    lectura de archivos csv.
