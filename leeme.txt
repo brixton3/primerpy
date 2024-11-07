@@ -52,3 +52,4 @@ pruebas con python
     ejercitando con python. nado sincronizado en la consola,
 19 lecturas_csv.py
     lectura de archivos csv.
+sin agregado mas

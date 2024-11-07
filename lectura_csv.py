@@ -6,7 +6,7 @@ def read_csv_data():
     csv_file = f"{file_dir}/subs.csv"
     data = []
     with open(csv_file, mode="r") as file:
-        reader = csv.DictReader(file) # uso de la funcion dictreader que crea un diccionario del csv q le pasemos
+        reader = csv.DictReader(file) # uso de la funcion dictreader que crea un diccionario del csv q le pasemos.
         for row in reader:
             if row["status"] == "activo":
                 data.append(row)
@@ -26,7 +26,7 @@ def display_winners(winners):
 try:
     data= read_csv_data()
     winners= select_winners(data)
-    #print(winners)
+    #print(winners) comentar
     display_winners(winners)
 except Exception as e:
     print(e)
