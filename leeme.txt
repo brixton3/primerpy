@@ -53,3 +53,6 @@ pruebas con python
 19 lecturas_csv.py
     lectura de archivos csv.
 sin agregado mas nada
+
+actualizado proyecto en pc reinstalada windows.
+vamos por mas
