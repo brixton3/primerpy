@@ -18,7 +18,7 @@ class message(str):
         else:
             self.skip = 0
             self.y += 1
-# definicion de display
+# definicion de display f
 class display(list):
     def __init__(self):
         self.height, self.width = os.get_terminal_size()  # Obtener el tamaño de la terminal
