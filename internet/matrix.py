@@ -11,7 +11,7 @@ class message(str):
         self.x = random.randint(0, display().width - 1)  # Asegúrate de que x esté dentro del rango
         self.skip = 0
         return self
- # definicion de move
+ # definicion de move . funcion
     def move(self):
         if self.speed > self.skip:
             self.skip += 1

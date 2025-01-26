@@ -25,7 +25,7 @@ def convertir_archivo(ruta_archivo, carpeta_destino):
     shutil.copy(ruta_archivo, ruta_destino)
     print(f"Archivo copiado a: {ruta_destino}")
 
-# Ejemplo de uso
+# Ejemplo de uso de 2025
 ruta_archivo = 'd:/datos/20241221LP.csv'
 carpeta_destino = 'd:/datos/destino'
 convertir_archivo(ruta_archivo, carpeta_destino)
