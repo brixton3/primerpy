@@ -1,4 +1,4 @@
-numero_secreto = 7
+numero_secreto = 8
 adivinanza = int(input("Ingrese un numero: "))
 
 if adivinanza == numero_secreto:

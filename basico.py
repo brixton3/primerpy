@@ -1,5 +1,5 @@
 def doslineas():
     print
     print
-print('ejecucuion:')
+print('ejecucion:')
 doslineas()
